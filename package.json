@@ -1,0 +1,14 @@
+{
+  "name": "aplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oxy",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.48.2"
+  }
+}
